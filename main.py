@@ -12,6 +12,8 @@ FONT = pygame.font.SysFont(None, 40)
 
 FPS = 12
 
+unUSed_Var =     24
+
 
 class Snake:
     def __init__(self, coords):
